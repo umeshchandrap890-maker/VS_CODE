@@ -7,3 +7,4 @@ for i in range(1, len(arr)):
         minimum = arr[i]
 
 print(minimum)
+print("GitHub Auto Test")
